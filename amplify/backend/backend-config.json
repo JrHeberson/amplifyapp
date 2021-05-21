@@ -1,6 +1,6 @@
 {
   "auth": {
-    "amplifyapp3049b1f2": {
+    "amplifyapp8bda0276": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
@@ -8,7 +8,7 @@
     }
   },
   "api": {
-    "noteapp": {
+    "notesapp": {
       "service": "AppSync",
       "providerPlugin": "awscloudformation",
       "output": {
